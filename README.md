@@ -1,2 +1,2 @@
-# mohit2008.github.io
-My Data science portfolio, check it out on https://mohit2008.github.io/
+# Lisa Jones Data Science Portfolio
+Thanks for stopping by, check out my portfolio at https://lisashub.github.io/
